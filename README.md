@@ -1,3 +1,4 @@
+
 Excuisite-corpse-Naomi
 ======================
 
@@ -18,3 +19,15 @@ A Poem by Anon
 
 With thanks to the poet, Robert Frost, for the underlying structure.
 Please note: This poem was created with our [quick poem generator](https://www.poem-generator.org.uk/quick/) generator, so results are fairly basic. Our other generators use robots who take your input then trawl the dictionary for rhymes, synonymns and alliteration, creating a more unique experience.
+=======
+# Exquisite Corpse
+
+
+Exquisite corpse, also known as **exquisite cadaver**,
+ 
+*(from the original French term cadavre exquis)*,
+ 
+is a method by which a collection of words or images is collectively assembled.
+
+
+
