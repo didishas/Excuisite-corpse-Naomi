@@ -1,2 +1,2 @@
-# An Exquisite Corpse
-# Excuisite-corpse-Naomi
+# Exquisite Corpse
+
